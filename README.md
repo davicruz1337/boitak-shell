@@ -1,0 +1,1 @@
+NO README.md only a shell very simple, i spend 5 hours coding this lol
